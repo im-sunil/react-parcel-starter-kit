@@ -17,7 +17,8 @@ npm install or yarn
 
 ### Run a script in dev
 
-```sh npm run dev  or yarn dev 
+```sh 
+npm run dev  or yarn dev 
 ```
 
 ### Build
